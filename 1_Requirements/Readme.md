@@ -38,3 +38,9 @@
 | 4 | Display all Contact| Implemented|
 | 5 | Delete Contact|Implemented|
 
+## Low Level Requirements
+|ID|Description|Status|
+|--|-----------|------|
+|1| In Add Contact,we can add details like Name,Phone No.,Email Id and Address| Implemented|
+|2| In Edit,Search and Display contact through name of contact|Implemented|
+
