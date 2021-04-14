@@ -29,4 +29,12 @@
 * This project can be run on any basic computer system.
 ### How?
 * The user can perform any actions like add contact, delete contact etc...
+## High Level Requirements
+| ID|Description|Status|
+|---|----------|-----  |
+|1  | Add Contact|Implemented|
+|2  | Edit Contact| Implemented|
+|3  | Search Contact| Implemented|
+| 4 | Display all Contact| Implemented|
+| 5 | Delete Contact|Implemented|
 
