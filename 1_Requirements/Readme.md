@@ -7,6 +7,14 @@
 * Delete a Contact.
 * Search a Contact.
 * Display a list of all contacts.
+
+## Benefits:
+1. Create a Centralized Platform for Contact Information.
+2. Cost Reduction.
+3. Quick Reach for Information.
+4. Improves Data Management.
+5. Track Customer Information.
+  
 ## SWOT Analysis:
 ![](https://github.com/hrishik16/Mini_Project_Template/blob/main/1_Requirements/SWOT%20Analysis.jpg)
 
